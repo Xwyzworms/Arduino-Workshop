@@ -1,5 +1,5 @@
 <html>
-<img src="vid.mp4">
+<img src="vid.gif">
 
 
 </html>
